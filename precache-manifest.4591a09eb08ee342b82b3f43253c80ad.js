@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29e63cb26433aa5a0ddda3068541857b",
+    "revision": "04c156bf2aa36e5eecab7c2726007437",
     "url": "/udemy-react-box-office/index.html"
   },
   {
-    "revision": "4b56697d50cb699d786c",
+    "revision": "e2181a87652080283c76",
     "url": "/udemy-react-box-office/static/css/main.3cd6ee85.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/udemy-react-box-office/static/js/2.11eeb43f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b56697d50cb699d786c",
-    "url": "/udemy-react-box-office/static/js/main.9e12c222.chunk.js"
+    "revision": "e2181a87652080283c76",
+    "url": "/udemy-react-box-office/static/js/main.13c07fab.chunk.js"
   },
   {
     "revision": "4131e8e700c0b7e38c59",

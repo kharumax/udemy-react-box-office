@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/udemy-react-box-office/static/css/main.3cd6ee85.chunk.css",
-    "main.js": "/udemy-react-box-office/static/js/main.9e12c222.chunk.js",
-    "main.js.map": "/udemy-react-box-office/static/js/main.9e12c222.chunk.js.map",
+    "main.js": "/udemy-react-box-office/static/js/main.13c07fab.chunk.js",
+    "main.js.map": "/udemy-react-box-office/static/js/main.13c07fab.chunk.js.map",
     "runtime-main.js": "/udemy-react-box-office/static/js/runtime-main.01693ed6.js",
     "runtime-main.js.map": "/udemy-react-box-office/static/js/runtime-main.01693ed6.js.map",
     "static/js/2.11eeb43f.chunk.js": "/udemy-react-box-office/static/js/2.11eeb43f.chunk.js",
     "static/js/2.11eeb43f.chunk.js.map": "/udemy-react-box-office/static/js/2.11eeb43f.chunk.js.map",
     "index.html": "/udemy-react-box-office/index.html",
-    "precache-manifest.02acd4f2352a9b88d9a1c1d84b8ea776.js": "/udemy-react-box-office/precache-manifest.02acd4f2352a9b88d9a1c1d84b8ea776.js",
+    "precache-manifest.4591a09eb08ee342b82b3f43253c80ad.js": "/udemy-react-box-office/precache-manifest.4591a09eb08ee342b82b3f43253c80ad.js",
     "service-worker.js": "/udemy-react-box-office/service-worker.js",
     "static/css/main.3cd6ee85.chunk.css.map": "/udemy-react-box-office/static/css/main.3cd6ee85.chunk.css.map",
     "static/js/2.11eeb43f.chunk.js.LICENSE.txt": "/udemy-react-box-office/static/js/2.11eeb43f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.01693ed6.js",
     "static/js/2.11eeb43f.chunk.js",
     "static/css/main.3cd6ee85.chunk.css",
-    "static/js/main.9e12c222.chunk.js"
+    "static/js/main.13c07fab.chunk.js"
   ]
 }

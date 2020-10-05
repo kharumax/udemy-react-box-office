@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/udemy-react-box-office/static/css/main.3cd6ee85.chunk.css",
+    "main.js": "/udemy-react-box-office/static/js/main.93be34ce.chunk.js",
+    "main.js.map": "/udemy-react-box-office/static/js/main.93be34ce.chunk.js.map",
+    "runtime-main.js": "/udemy-react-box-office/static/js/runtime-main.01693ed6.js",
+    "runtime-main.js.map": "/udemy-react-box-office/static/js/runtime-main.01693ed6.js.map",
+    "static/js/2.605b082c.chunk.js": "/udemy-react-box-office/static/js/2.605b082c.chunk.js",
+    "static/js/2.605b082c.chunk.js.map": "/udemy-react-box-office/static/js/2.605b082c.chunk.js.map",
+    "index.html": "/udemy-react-box-office/index.html",
+    "precache-manifest.3d798abc4aafd160dd10e5bfefd8309c.js": "/udemy-react-box-office/precache-manifest.3d798abc4aafd160dd10e5bfefd8309c.js",
+    "service-worker.js": "/udemy-react-box-office/service-worker.js",
+    "static/css/main.3cd6ee85.chunk.css.map": "/udemy-react-box-office/static/css/main.3cd6ee85.chunk.css.map",
+    "static/js/2.605b082c.chunk.js.LICENSE.txt": "/udemy-react-box-office/static/js/2.605b082c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01693ed6.js",
+    "static/js/2.605b082c.chunk.js",
+    "static/css/main.3cd6ee85.chunk.css",
+    "static/js/main.93be34ce.chunk.js"
+  ]
+}

@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a698fdf-2d57-415e-9561-ec0e35ddb6c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/CustomRadio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navs.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Title.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.styled.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Title.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Title.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/misc/custom-hooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/misc/custom-hooks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Show.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Show.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +80,7 @@
       <updated>1601544887947</updated>
       <workItem from="1601544889179" duration="4923000" />
       <workItem from="1601628865996" duration="10829000" />
-      <workItem from="1601881308666" duration="2306000" />
+      <workItem from="1601881308666" duration="2552000" />
     </task>
     <servers />
   </component>
@@ -95,10 +88,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="842" y="201" width="670" height="564" key="search.everywhere.popup" timestamp="1601883628577">
+    <state x="842" y="201" width="670" height="564" key="search.everywhere.popup" timestamp="1601883882688">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="889" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-233.-1080.1920.1080@-233.-1080.1920.1080" timestamp="1601645170365" />
-    <state x="842" y="201" width="670" height="564" key="search.everywhere.popup/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1601883628577" />
+    <state x="842" y="201" width="670" height="564" key="search.everywhere.popup/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1601883882688" />
   </component>
 </project>
